@@ -10,7 +10,7 @@
         "dependencies": {
           "Foundry.IntegrationGateway.Common": "0.1.2-beta",
           "RestSharp": "106.6.10",
-          "ShopifyUtils": "1.0.0.0"
+          "TrueCommerce.Integrations.ShopifyUtils": "1.0.0.0"
         },
         "runtime": {
           "ShopifyOrderReader.dll": {}
@@ -781,11 +781,27 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "ShopifyUtils/1.0.0.0": {
+      "TrueCommerce.Integrations.ShopifyUtils/1.0.0.0": {
         "runtime": {
-          "ShopifyUtils.dll": {
+          "TrueCommerce.Integrations.ShopifyUtils.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Accellos.InterfaceCommon/4.1.0.0": {
+        "runtime": {
+          "Accellos.InterfaceCommon.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "CommandLine/2.4.3.0": {
+        "runtime": {
+          "CommandLine.dll": {
+            "assemblyVersion": "2.4.3.0",
+            "fileVersion": "2.4.3.0"
           }
         }
       }
@@ -1315,7 +1331,17 @@
       "path": "system.threading.timer/4.3.0",
       "hashPath": "system.threading.timer.4.3.0.nupkg.sha512"
     },
-    "ShopifyUtils/1.0.0.0": {
+    "TrueCommerce.Integrations.ShopifyUtils/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accellos.InterfaceCommon/4.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLine/2.4.3.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
