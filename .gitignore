@@ -1,3 +1,5 @@
 *.config
 settings.json
 mqSettings.json
+AUTO_Push.cmd
+MoveToQa.cmd

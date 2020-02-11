@@ -1,4 +1,1 @@
-git pull
-git add .
-git commit -m "auto %date% %time%"
-git push
+git push https://github.com/RodionPronin/Foundry.IG.QA.git
