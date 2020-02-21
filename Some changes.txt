@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 DEV my first changes
+=======
+My QA my first changes 1234
+>>>>>>> d0417eda8f7141db6df292d281ce62cbc20c762e
