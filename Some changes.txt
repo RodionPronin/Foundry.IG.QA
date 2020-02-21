@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 My QA my first changes 123
-=======
-Dev my first changes 123
->>>>>>> 6a9de88c0e67a7b72cf5aae6d7d0dffd0e29b489
