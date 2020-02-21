@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my first changes 123
+=======
+my first changes 321
+>>>>>>> 72211be4198b3e19aa7e1db070fd7a4838b67e42
