@@ -1,7 +1,7 @@
 *.config
 settings.json
 mqSettings.json
-AUTO_Pull.cmd
-AUTO_Push.cmd
+Pull.cmd
+Push.cmd
 MoveToQa.cmd
 MoveToProd.cmd
